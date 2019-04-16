@@ -1,0 +1,69 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "category": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Toast",
+      "category": "Grilled Cheese",
+      "ethnicity": "American",
+      "id": 7
+    },
+    {
+      "name": "Ham and Cheese",
+      "category": "Grilled Cheese",
+      "ethnicity": "American",
+      "id": 8
+    },
+    {
+      "name": "TURKEY and Cheese",
+      "category": "Grilled Cheese",
+      "ethnicity": "American",
+      "id": 10
+    },
+    {
+      "name": "Ham and Cheese 2.0",
+      "category": "Grilled Cheese",
+      "ethnicity": "American",
+      "id": 6
+    }
+  ],
+  "drinks": [
+      {
+          "name": "water",
+          "id": 1
+      },
+      {
+          "name": "tea",
+          "id": 2
+      }
+  ],
+  "order": [
+      {"id": 1,
+      "foodId": 2,
+      "drinkId": 1
+      }
+  ]
+
+}
